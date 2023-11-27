@@ -1,0 +1,21 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.VT.3.0-00151-00000-1", 
+        "apps": "LA.UM.8.6.2.r1-04900-89xx.0-2.293906.2.306838.1", 
+        "boot": "BOOT.BF.3.3.2-00077-M8953JAAAANAZB-1", 
+        "common": "SDM450.LA.3.2.2-00030-STD.PROD-1.399280.0a.411850.3", 
+        "cpe": "CPE.TSF.3.0-00002-W9335AAAAAAAZQ-4", 
+        "glue": "GLUE.SDM450.3.2.2-00005-NOOP_TEST-1", 
+        "modem": "MPSS.TA.3.0.c1-00707-8953_GEN_PACK-1.399280.1.411850.3", 
+        "rpm": "RPM.BF.2.4-00066-M8953AAAAANAZR-2", 
+        "tz": "TZ.BF.4.0.5-00214-M8937AAAAANAZT-1", 
+        "video": "VIDEO.VE.4.4-00062-PROD-1", 
+        "wcnss": "CNSS.PR.4.0.3-00258-M8953BAAAANAZW-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SDM450.LA.3.2.2-00030-STD.PROD-1.399280.0a.411850.3", 
+        "Product_Flavor": "['asic']", 
+        "Time_Stamp": "2023-05-17 05:35:13"
+    }, 
+    "Version": "1.0"
+}

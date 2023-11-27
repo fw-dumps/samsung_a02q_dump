@@ -1,0 +1,16 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+dt=dtb.img
+kernel_size=12090521
+ramdisk_size=1436449
+dtb_offset=0x01f00000
+dtb_size=865988
+base_addr=0x80000000
+kernel_offset=0x00008000
+ramdisk_offset=0x02000000
+tags_offset=0x01e00000
+dtbo_offset=0x80000000
+cmd_line='console=ttyMSM0,115200,n8 androidboot.console=ttyMSM0 androidboot.hardware=qcom user_debug=30 msm_rtb.filter=0x237 ehci-hcd.park=3 androidboot.bootdevice=7824900.sdhci lpm_levels.sleep_disabled=1 earlycon=msm_hsl_uart,0x78af000 androidboot.usbconfigfs=true vmalloc=300M loop.max_part=7'
+board="SRPTL15A004"
+format=gzip

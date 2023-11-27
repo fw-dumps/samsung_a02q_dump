@@ -1,0 +1,19 @@
+## a02qdd-user 12 SP1A.210812.016 E025FXXU4CWE2 release-keys
+- Manufacturer: samsung
+- Platform: msm8953
+- Codename: a02q
+- Brand: samsung
+- Flavor: a02qdd-user
+- Release Version: 12
+- Kernel Version: 4.9.227
+- Id: SP1A.210812.016
+- Incremental: E025FXXU4CWE2
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a02qdd/a02q:12/SP1A.210812.016/E025FXXU4CWE2:user/release-keys
+- OTA version: 
+- Branch: a02qdd-user-12-SP1A.210812.016-E025FXXU4CWE2-release-keys
+- Repo: samsung_a02q_dump
