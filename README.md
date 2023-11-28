@@ -1,0 +1,19 @@
+## a02qdd-user 11 RP1A.200720.012 E025FXXS2BVF1 release-keys
+- Manufacturer: samsung
+- Platform: msm8953
+- Codename: a02q
+- Brand: samsung
+- Flavor: a02qdd-user
+- Release Version: 11
+- Kernel Version: 4.9.227
+- Id: RP1A.200720.012
+- Incremental: E025FXXS2BVF1
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: undefined
+- Fingerprint: samsung/a02qdd/a02q:11/RP1A.200720.012/E025FXXS2BVF1:user/release-keys
+- OTA version: 
+- Branch: a02qdd-user-11-RP1A.200720.012-E025FXXS2BVF1-release-keys
+- Repo: samsung_a02q_dump
